@@ -1,4 +1,5 @@
-console.log("scripts is working ig"); let currentSong = new Audio();
+console.log("scripts is working ig");
+ let currentSong = new Audio();
 let songs;
 let currFolder;
 
